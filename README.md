@@ -1,4 +1,7 @@
 # GAMENet
+Entry point to Code reproduction is:
+Working_CSE6250_TEAM_F4.ipynb
+
 GAMENet : Graph Augmented MEmory Networks for Recommending Medication Combination
 
 For reproduction of medication prediction results in our [paper](https://arxiv.org/abs/1809.01852), see instructions below.
